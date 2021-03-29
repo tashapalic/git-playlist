@@ -58,3 +58,4 @@ function thanks(){
   else {div.style.display = "none"};
 }
 button01.addEventListener('click', thanks);
+tanja palic
